@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="https://kishansarodiya.github.io/Wordpress-Demo/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kishansarodiya.github.io/Wordpress-Demo/</link>
+	<atom:link href="kishansarodiya.github.io/Wordpress-Demo//sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>kishansarodiya.github.io/Wordpress-Demo//</link>
 	<description></description>
 	<lastBuildDate>Fri, 08 Dec 2023 04:51:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
