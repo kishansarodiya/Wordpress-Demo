@@ -1,0 +1,2 @@
+[08-Dec-2023 05:02:41 UTC] PHP Warning:  chmod(): Operation not permitted in /Users/kishansarodiya/Documents/project/git-demo/Wordpress-Demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-transfer-files-locally-task.php on line 85
+[08-Dec-2023 05:02:41 UTC] PHP Warning:  copy(/index.html): Failed to open stream: Read-only file system in /Users/kishansarodiya/Documents/project/git-demo/Wordpress-Demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-transfer-files-locally-task.php on line 91
